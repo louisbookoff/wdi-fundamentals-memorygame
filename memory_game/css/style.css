@@ -28,7 +28,7 @@ a {
 	text-decoration: none;
 }
 
-h2 {
+h2, h4 {
 	font-family: Raleway;
 	color: #0D2C40;
 	letter-spacing: 1px;
